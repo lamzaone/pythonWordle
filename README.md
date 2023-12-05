@@ -7,3 +7,6 @@ You must input a word.
 If the word you guessed has a letter at the right place, the letter will remain as lowercase. If the letter is in the word but at another index, the letter will be shown as uppercase.
 
 The game also remembers the wrong characters you already used.
+
+for linux:
+chmod u+x requirements.sh && ./requirements.sh
