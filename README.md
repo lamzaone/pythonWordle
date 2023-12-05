@@ -8,5 +8,5 @@ If the word you guessed has a letter at the right place, the letter will remain 
 
 The game also remembers the wrong characters you already used.
 
-requirements:
-# pip install requests
+# requirements:
+pip install requests
