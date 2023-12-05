@@ -10,4 +10,6 @@ The game also remembers the wrong characters you already used.
 
 ```bash
 pip3 install requests, pyenchant
+git clone https://github.com/lamzaone/pythonWordle && cd pythonWordle/
+python3 wordle.py
 ```
