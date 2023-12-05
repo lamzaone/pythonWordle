@@ -8,5 +8,5 @@ If the word you guessed has a letter at the right place, the letter will remain 
 
 The game also remembers the wrong characters you already used.
 
-for linux:
-chmod u+x requirements.sh && ./requirements.sh
+requirements:
+# pip install requests
